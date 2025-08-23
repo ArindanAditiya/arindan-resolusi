@@ -6,7 +6,8 @@ RENCANA KONTEN ARINDAN
   * belajar vue
 - fundamental struktur data dasar
 - PHP Framework
-  * Symfony
-  * Yii
+  * Laravel
+  * Code Igniter
 - Interview
 - Vlogs
+- Python
