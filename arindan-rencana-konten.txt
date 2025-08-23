@@ -3,6 +3,7 @@ RENCANA KONTEN ARINDAN
 - Javascript
   * belajar framework react
   * menjadi leader team dalam pengembangan aplikasi menggunakan bahasa javascript
+- fundamental struktur data dasar
 - PHP Framework
 - Interview
 - Vlogs
